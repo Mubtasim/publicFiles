@@ -3,6 +3,8 @@
     {
       "balance": 3633.03,
       "balanceDate": "2023-05-29T06:00:00.000Z",
+      "type": "CHECKING",
+      "usage": "PERSONAL",
       "owners": [
         {
           "name": "SHERLOCK HOLMES"
@@ -373,9 +375,7 @@
           "description": "TRANSFER ",
           "amount": -500
         }
-      ],
-      "type": "CHECKING",
-      "usage": "PERSONAL"
+      ]
     }
   ]
 }
